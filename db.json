@@ -1,0 +1,123 @@
+{
+	"success": true,
+	"data": [
+		{
+			"asin": "10CHARASIN",
+			"isbn13": "13CHARISBNVAL",
+			"binding": "BindingValue",
+			"edition": "Edition Value",
+			"title": "Title of the Book",
+			"author": "Author Name(s)",
+			"height": 10,
+			"width": 860,
+			"length": 120,
+			"weight": 195,
+			"language": "english",
+			"listPrice": 12000,
+			"listPriceCurrency": "USD",
+			"pageCount": 312,
+			"productGroup": "books_on_web_site",
+			"publicationDate": 1598620655,
+			"thumbnailLink": "https://m.media-amazon.com/images/I/51+ID6sEpPL._SL75_.jpg",
+			"publisher": "HarperCollins",
+			"instantSr": 75,
+			"dateUpdated": 1598620655,
+			"salesVolume": {
+				"asin": "10CHARASIN",
+				"instantSR": 75,
+				"lastSixMonthSr": 60,
+				"periodS1": 20,
+				"periodS2": -10,
+				"salesCount": 5,
+				"lastUpdateDate": 1598620655
+			},
+			"offers": [
+				{
+					"channelCondition": "UsedFBA",
+					"selectionOffers": [
+						{
+							"price": 2000,
+							"currency": "USD"
+						},
+						{
+							"price": 57200,
+							"currency": "USD"
+						}
+					]
+				},
+				{
+					"channelCondition": "NewMerchant",
+					"selectionOffers": [
+						{
+							"price": 18000,
+							"currency": "USD"
+						},
+						{
+							"price": 75400,
+							"currency": "EUR"
+						}
+					]
+				}
+			]
+		},
+		{
+			"asin": "10CHARASIN",
+			"isbn13": "13CHARISBNVAL",
+			"binding": "BindingValue",
+			"edition": "Edition Value",
+			"title": "Title of the Book",
+			"author": "Author Name(s)",
+			"height": 10,
+			"width": 860,
+			"length": 120,
+			"weight": 195,
+			"language": "english",
+			"listPrice": 12000,
+			"listPriceCurrency": "USD",
+			"pageCount": 312,
+			"productGroup": "books_on_web_site",
+			"publicationDate": 1598620655,
+			"thumbnailLink": "https://m.media-amazon.com/images/I/51+ID6sEpPL._SL75_.jpg",
+			"publisher": "HarperCollins",
+			"instantSr": 75,
+			"dateUpdated": 1598620655,
+			"salesVolume": {
+				"asin": "10CHARASIN",
+				"instantSR": 75,
+				"lastSixMonthSr": 60,
+				"periodS1": 20,
+				"periodS2": -10,
+				"salesCount": 5,
+				"lastUpdateDate": 1598620655
+			},
+			"offers": [
+				{
+					"channelCondition": "UsedFBA",
+					"selectionOffers": [
+						{
+							"price": 2000,
+							"currency": "USD"
+						},
+						{
+							"price": 57200,
+							"currency": "USD"
+						}
+					]
+				},
+				{
+					"channelCondition": "NewMerchant",
+					"selectionOffers": [
+						{
+							"price": 18000,
+							"currency": "USD"
+						},
+						{
+							"price": 75400,
+							"currency": "EUR"
+						}
+					]
+				}
+			]
+		}
+	]
+}
